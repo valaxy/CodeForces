@@ -24,7 +24,7 @@ def solve(n, m, a):
     return calc(n, a) * calc(m, a)
 
 
-if __name__ == 'main':
+if __name__ == '__main__':
     data = read()
     data = solve(data[0], data[1], data[2])
     write(data)
