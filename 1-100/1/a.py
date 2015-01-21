@@ -1,6 +1,4 @@
 # encoding = utf-8
-# 数学 > 离散数学 > 排列组合
-
 
 def read():
     s = input()
